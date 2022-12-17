@@ -1,0 +1,5 @@
+silabus rekayasa perangkat lunak kelas 5.1
+- git dan github
+- framework bootstrap
+- framework codigniter
+- DBMS Mysql
